@@ -1,2 +1,5 @@
 streamlit
 supasabe
+pandas
+plotly
+python-dotenv
